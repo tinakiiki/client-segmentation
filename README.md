@@ -1,2 +1,2 @@
 # client-segmentation
-Clustering project to determine which customer segments to target for a mailing donor campaign
+Clustering project to determine which customer segments based on information collected from a population census
